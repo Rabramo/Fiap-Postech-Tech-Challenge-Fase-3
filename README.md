@@ -3,10 +3,12 @@
 17/12/2024
 
 Grupo 37 - Data Analytics - 6DTAT
+
 Rogério Abramo Alves Pretti - RM357672
+
 Kathllen Santos Pinheiro Torres - RM356799
 
-Base de dados: PNAD-COVID-19 do IBGE (https://covid19.ibge.gov.br/pnad-covid/)
+**Base de dados: PNAD-COVID-19 do IBGE (https://covid19.ibge.gov.br/pnad-covid/)**
 
 # O problema
 Imagine agora que você foi contratado(a) como Expert em Data Analytics 
