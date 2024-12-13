@@ -24,8 +24,11 @@ todas as oportunidades ali postas.
 
 É sempre bom ressaltar que há dados triviais que precisam estar no 
 projeto, pois auxiliam muito na análise dos dados:
+
 • Características clínicas dos sintomas;
+
 • Características da população;
+
 • Características econômicas da sociedade.
 
 O Head de Dados pediu para que você entrasse na base de dados do 
@@ -35,9 +38,13 @@ trazendo as seguintes características:
 
 a. Utilização de no máximo 20 questionamentos realizados na 
 pesquisa;
+
 b. Utilizar 3 meses para construção da solução;
+
 c. Caracterização dos sintomas clínicos da população;
+
 d. Comportamento da população na época da COVID-19;
+
 e. Características econômicas da Sociedade;
 
 Seu objetivo será trazer uma breve análise dessas informações, como foi 
